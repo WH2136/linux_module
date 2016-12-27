@@ -1,0 +1,1 @@
+cmd_/home/wjq/gitfile/linux_module/src/helloworld_module/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wjq/gitfile/linux_module/src/helloworld_module/hello.ko /home/wjq/gitfile/linux_module/src/helloworld_module/hello.o /home/wjq/gitfile/linux_module/src/helloworld_module/hello.mod.o
